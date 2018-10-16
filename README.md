@@ -6,7 +6,8 @@
 ##### Instructions: 
 
 - Move around with WASD.
-- Speed up by holding shift.
+- Speed up by holding Shift.
+- Press E to interact with objects.
 - Avoid getting caught by keeping you detection bar low.
 - Avoid cameras, lights, and running.
 - Find the secret documents without getting caught!
