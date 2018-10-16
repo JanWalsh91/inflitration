@@ -14,8 +14,8 @@
 
 <img src="https://github.com/JanWalsh91/inflitration/blob/master/media/GIF%201.gif" alt="drawing"/>
 
-<img src="https://github.com/JanWalsh91/inflitration/blob/master/media/GIF%202.gif" alt="drawing" width="500"/>
+<img src="https://github.com/JanWalsh91/inflitration/blob/master/media/GIF%202.gif" alt="drawing"/>
 
-<img src="https://github.com/JanWalsh91/inflitration/blob/master/media/GIF%203.gif" alt="drawing" width="500"/>
+<img src="https://github.com/JanWalsh91/inflitration/blob/master/media/GIF%203.gif" alt="drawing"/>
 
-<img src="https://github.com/JanWalsh91/inflitration/blob/master/media/GIF%204.gif" alt="drawing" width="500"/>
+<img src="https://github.com/JanWalsh91/inflitration/blob/master/media/GIF%204.gif" alt="drawing"/>
